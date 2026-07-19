@@ -1,0 +1,28 @@
+[
+  {
+    "attributes": {
+      "ChapterID": "CA-FIX-BADCOORD",
+      "University_Chapter": "Fixture Bad Coordinate Chapter",
+      "City": "San Francisco",
+      "State": "CA",
+      "OBJECTID": "FIX-1"
+    },
+    "geometry": {
+      "x": 500.0,
+      "y": 37.7749
+    }
+  },
+  {
+    "attributes": {
+      "ChapterID": "CA-FIX-WARNCITY",
+      "University_Chapter": "Fixture Warning City Chapter",
+      "City": "UNKNOWN",
+      "State": "CA",
+      "OBJECTID": "FIX-2"
+    },
+    "geometry": {
+      "x": -122.4194,
+      "y": 37.7749
+    }
+  }
+]
